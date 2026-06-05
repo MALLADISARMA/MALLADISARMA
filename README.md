@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Malladi%20B%20V%20S%20U%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Business%20Analyst%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=55&descSize=16" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malladi-sarma-462537271/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](iitsmemchintu@gmail.com)
 
 </div>
 
