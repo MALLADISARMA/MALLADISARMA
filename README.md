@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Malladi%20B%20V%20S%20U%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Business%20Analyst%20|%20AI%20&%20Cloud%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Malladi%20Sarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Cloud-Native%20Learner&descAlignY=55&descSize=16"/>
 
 # Hi 👋, I'm Malladi Sarma
 
