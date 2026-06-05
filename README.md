@@ -1,7 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Malladi%20Sarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20%26%20ML%20Enthusiast%20|%20Cloud-Native%20Learner&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Malladi%20Sarma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Analyst%20|%20AI%20&%20Cloud%20Enthusiast&descAlignY=55&descSize=16"/>
 
+
+
+
+replace this
+malladi sarma 
+softeare aiml enthiusiast cloud 
 # Hi 👋, I'm Malladi Sarma
 
 ### Software Engineer | Backend Developer | AI & Cloud Enthusiast
