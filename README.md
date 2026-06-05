@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Malladi%20B%20V%20S%20U%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Business%20Analyst%20|%20AI%20&%20Cloud%20Enthusiast&descAlignY=55&descSize=16"/>
 
-# Hi 👋, I'm Malladi B V S U S
+# Hi 👋, I'm Malladi Sarma
 
-### Software Engineer | Business Analyst | AI & Cloud Enthusiast
+### Software Engineer | Backend Developer | AI & Cloud Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malladi-sarma-462537271/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iitsmemchintu@gmail.com)
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science professional with experience in **Software Development**, **Data Analytics**, **Machine Learning**, and **Cloud Technologies**.
+Computer Science professional with experience in **Software Development**, **Data Analytics**, **Machine Learning**, and **Cloud Technologies**. 2026 graduate from Vellore Institute of Technology
 
 - 🚀 Passionate about building scalable applications
 - 📊 Experienced in Data Analytics & Business Intelligence
