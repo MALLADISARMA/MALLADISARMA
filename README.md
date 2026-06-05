@@ -5,9 +5,6 @@
 
 
 
-replace this
-malladi sarma 
-softeare aiml enthiusiast cloud 
 # Hi 👋, I'm Malladi Sarma
 
 ### Software Engineer | Backend Developer | AI & Cloud Enthusiast
