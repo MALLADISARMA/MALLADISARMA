@@ -78,27 +78,40 @@ Computer Science professional with experience in **Software Development**, **Dat
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🏠 Real Estate Price Prediction
-- Developed a machine learning model to predict property prices.
-- Built an interactive web application for real-time predictions.
+- Developed a machine learning model to predict real estate prices based on property features.
+- Built an interactive web application for real-time price estimation.
+- Improved decision-making using data-driven insights.
 - **Tech:** Python, Machine Learning, HTML, CSS, JavaScript
 
-### 🩺 AI Disease Prediction System
-- Predicts diseases based on symptoms using machine learning.
-- Provides intelligent recommendations and insights.
-- **Tech:** Python, ML, Web Technologies
+### 🤖 SQL AI Query Generator
+- Developed an AI-powered system that converts natural language questions into SQL queries.
+- Simplifies database interaction for non-technical users.
+- Supports query generation, optimization, and data retrieval.
+- **Tech:** Python, SQL, NLP, Generative AI, LLMs
+
+### 🎭 Deepfake Detection System
+- Built a deep learning solution to identify manipulated videos and images.
+- Utilized computer vision techniques for authenticity verification.
+- Designed to improve digital content security and trustworthiness.
+- **Tech:** Python, Deep Learning, CNNs, OpenCV, TensorFlow
 
 ### 💬 Real-Time Chat Application
-- Full-stack messaging platform with authentication.
-- Real-time communication using modern web technologies.
-- **Tech:** React.js, Node.js, Express.js, MongoDB
+- Developed a full-stack messaging platform with secure authentication.
+- Enabled real-time communication and instant message delivery.
+- Designed responsive user interfaces for seamless interaction.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, Socket.io
 
-### 📊 BI & Analytics Dashboards
-- Developed business intelligence dashboards.
-- Created reports for strategic decision-making.
-- **Tech:** Power BI, Excel, SQL
+### ✈️ Tourism & Ticket Booking Platform
+- Developed a tourism management and ticket booking system.
+- Enables destination exploration, trip planning, and online reservations.
+- Includes user authentication, booking management, and payment workflows.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, REST APIs
+
 
 ---
 
@@ -125,6 +138,7 @@ Computer Science professional with experience in **Software Development**, **Dat
 - Kubernetes & Containers
 - Distributed Systems
 - Terraform & Infrastructure as Code
+- -Spring boot
 
 ---
 
