@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Malladi Sarma
 
-### Software Development Engineer @ Guidewire | Cloud-Native & DevOps | Production-Grade AI
+### Software Development Engineer Intern @ Guidewire Software 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malladi-sarma-462537271/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iitsmemchintu@gmail.com)
